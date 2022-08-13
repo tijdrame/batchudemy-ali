@@ -1,0 +1,16 @@
+<products>
+    <product>
+        <productID>1</productID>
+        <productName>Apple iPhone</productName>
+        <productDesc>Apple cell (from XML)</productDesc>
+        <unit>10</unit>
+        <price>300.00</price>
+    </product>
+    <product>
+        <productID>2</productID>
+        <productName>Dell computer</productName>
+        <productDesc>Dell computer (from XML)</productDesc>
+        <unit>100</unit>
+        <price>7000.00</price>
+    </product>
+</products>
